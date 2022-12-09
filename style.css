@@ -1,0 +1,79 @@
+html{
+    background-color: #ffbf69;
+}
+
+.navbar{
+    position: absolute;
+    width: 100%;
+    padding: 20px 80px;
+}
+
+.nav-item{
+    padding-left: 50px;
+}
+
+.row{
+    padding: 0px 80px;
+}
+
+.main_back {
+    background: url(/images/background.png) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: contain;
+    height: 900px;
+}
+
+.main_back_2{
+    background: url(/images/bg-grid.png) no-repeat center center;
+    height: 502px;
+}
+
+.main_back_3{
+    background-color: #cbf3f0;
+    padding: 100px 0;
+}
+
+.main_back_4 div ul div li a{
+    color: #fff;
+}
+
+.btn {
+    border-radius: 0;
+    background-color: #cbf3f0;
+    border-color: #cbf3f0;
+    color: black;
+    width: 200px;
+    height: 60px;
+}
+
+.main_back{
+    background-color: #ffbf69;
+}
+
+.main_color{
+    background-color: #ffbf69;
+}
+
+h5 {
+    font-size: 3px;
+}
+
+footer {
+    background-color: #333333;
+}
+
+.card{
+    text-align: center;
+    background-color: #cbf3f0;
+    border-color: #cbf3f0;
+}
+
+.card-title {
+    font-size: 20px;
+}
+
+.card-body a {
+    background-color: #ffbf69;
+}
